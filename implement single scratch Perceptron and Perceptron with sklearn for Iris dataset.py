@@ -1,3 +1,5 @@
+#Hamid Reza heidari - Master's Student of Mechatronics Engineering at AmirKabir University of Technology (Tehran Polytechnic)
+#implement Iris dataset single scratch Perceptron and Perceptron with sklearn for binary classification
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
